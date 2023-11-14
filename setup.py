@@ -14,7 +14,7 @@ setup(
     version="2.1.0",
     author="Tariq Alashaikh",
     url="https://github.com/illbison/ds-pip",
-    python_requires=">=3.9",
+    python_requires=">=3.8",
     install_requires=requirements,
     packages=["src", "src.lib"],
     entry_points={
