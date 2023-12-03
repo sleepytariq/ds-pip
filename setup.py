@@ -11,7 +11,7 @@ console_scripts = [f"{module.replace('_', '-')} = src.{module.replace('.py', '')
 setup(
     name="ds-pip",
     description="Make several Didier Stevens tools installable via pip",
-    version="2.1.1",
+    version="2.1.2",
     author="Tariq Alashaikh",
     url="https://github.com/illbison/ds-pip",
     python_requires=">=3.8",

@@ -61,6 +61,9 @@ import hashlib
 import json
 import zlib
 import struct
+import glob
+import collections
+
 try:
     import pyzipper as zipfile
 except ImportError:
