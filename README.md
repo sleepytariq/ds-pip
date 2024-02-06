@@ -4,10 +4,9 @@ This repo sole purpose is to make a number of Didier Stevens' tools installable 
 
 ## installation
 
-- With git
 `pip install git+https://github.com/illbison/ds-pip`
-
-- Without git
+  
+  _or_
 1. Download [zip](https://github.com/illbison/ds-pip/archive/refs/heads/main.zip)
 2. Open terminal inside downloaded repo
 3. Run `pip install .`
